@@ -1,6 +1,6 @@
 ---
-description: It the wiki.
 icon: hand-peace
+description: It the wiki.
 ---
 
 # Yo!
@@ -53,3 +53,4 @@ Basically all my friends that you can see info on (there may be a lack of info (
 * ballin (mysterious aura)
 * thewolflovers (literally just that)
 * breatheair0274 (who is this :sob:)
+* bigchungus282 (BOUYS)
